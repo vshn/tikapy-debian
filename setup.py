@@ -10,14 +10,14 @@ here = path.abspath(path.dirname(__file__))
 
 setup(
     name='tikapy',
-    version='0.1.1',
+    version='0.1.2',
     description='A python client for the MikroTik RouterOS API',
     url='https://github.com/vshn/tikapy',
     author='Andre Keller',
     author_email='andre.keller@vshn.ch',
     # BSD 3-Clause License:
     # - http://opensource.org/licenses/BSD-3-Clause
-    license='MIT',
+    license='BSD',
 
     # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
