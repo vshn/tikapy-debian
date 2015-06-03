@@ -1,3 +1,9 @@
+tikapy (0.1.2-1) UNRELEASED; urgency=medium
+
+  * new upstream release
+
+ -- André Keller <andre.keller@vshn.ch>  Wed, 03 Jun 2015 13:17:43 +0200
+
 tikapy (0.1.1-1) trusty; urgency=low
 
   * Initial release
