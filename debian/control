@@ -1,0 +1,12 @@
+Source: tikapy
+Maintainer: André Keller <andre.keller@vshn.ch>
+Section: python
+Priority: optional
+Build-Depends: python3-setuptools, python3-all, debhelper (>= 7)
+Standards-Version: 3.9.5
+
+Package: python3-tikapy
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: A python client for the MikroTik RouterOS API
+

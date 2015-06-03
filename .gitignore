@@ -4,3 +4,9 @@ __pycache__/
 /dist/
 /build/
 /tikapy.egg-info/
+/debian/python3-tikapy.*.debhelper
+/debian/python3-tikapy.*.log
+/debian/python3-tikapy.substvars
+/debian/python3-tikapy
+/debian/files
+/.pc
